@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-62.5%" y="-62.5%" width="225.0%" height="225.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.549019608   0 0 0 0 1  0 0 0 0.539745411 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商业产品-初始态" transform="translate(-514.000000, -76.000000)">
+            <g id="编组-10" transform="translate(394.000000, 64.000000)">
+                <g id="编组-9" transform="translate(24.000000, 12.000000)">
+                    <g id="编组-5">
+                        <g id="编组-6" transform="translate(96.000000, 0.000000)">
+                            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                            <g id="编组-7" filter="url(#filter-1)" transform="translate(6.000000, 6.000000)">
+                                <path d="M6,4.97379915e-14 L6.22493826,0.00413847206 C9.43442511,0.122428238 12,2.76160306 12,6 C12,8.12471152 10.8956049,9.99147774 9.22954846,11.0575648 L9.22937012,11.0200195 L6,6 L6,4.97379915e-14 L6,4.97379915e-14 Z" id="形状结合" fill="#00CD87"></path>
+                                <circle id="椭圆形" stroke="#008CFF" cx="6" cy="6" r="6"></circle>
+                                <polyline id="路径-3" stroke="#008CFF" points="6 -2.66453526e-15 6 6 9.30981445 11.0687256"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

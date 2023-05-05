@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="错误提示" transform="translate(-338.000000, -141.000000)">
+            <g id="地块" transform="translate(32.000000, 128.000000)">
+                <g id="编组-8" transform="translate(306.000000, 13.000000)">
+                    <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M12,3 C14.7614237,3 17,5.23857625 17,8 C17,10.4185387 15.2828356,12.4360122 13.0011864,12.8997409 L13,17.2763078 C13,17.8285925 12.5522847,18.2763078 12,18.2763078 C11.4477153,18.2763078 11,17.8285925 11,17.2763078 L11,17.2763078 L10.999812,12.8999437 C8.71766536,12.4366008 7,10.4188915 7,8 C7,5.23857625 9.23857625,3 12,3 Z M12,5 C10.3431458,5 9,6.34314575 9,8 C9,9.65685425 10.3431458,11 12,11 C13.6568542,11 15,9.65685425 15,8 C15,6.34314575 13.6568542,5 12,5 Z" id="形状结合" fill-opacity="0.65" fill="#000620" fill-rule="nonzero"></path>
+                    <path d="M9.71855837,17.2677459 C8.67987314,17.5386847 8,17.9895687 8,18.5 C8,19.3284271 9.790861,20 12,20 C14.209139,20 16,19.3284271 16,18.5 C16,17.9891155 15.3189191,17.5378841 14.2786742,17.2670247" id="路径" stroke-opacity="0.65" stroke="#000620" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

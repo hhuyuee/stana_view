@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>编组 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-27.1%" y="-27.1%" width="154.2%" height="154.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.898039216   0 0 0 0 0.317647059   0 0 0 0 0.317647059  0 0 0 0.54029174 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商业产品-初始态" transform="translate(-610.000000, -76.000000)">
+            <g id="编组-10" transform="translate(394.000000, 64.000000)">
+                <g id="编组-9" transform="translate(24.000000, 12.000000)">
+                    <g id="编组-5">
+                        <g id="编组-6" transform="translate(192.000000, 0.000000)">
+                            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                            <g id="编组" filter="url(#filter-1)">
+                                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                                <path d="M15.0271098,6 L18.1260163,11.7891545 L15.847,15.736 L14.901,15.064 L16.7672512,11.8328067 L14.3099233,7.24220336 L9.1056803,7.40939668 L6.35876513,12.1671933 L8.81609297,16.7577966 L13.03,16.622 L13.098,17.839 L8.09890653,18 L5,12.2108455 L8.46410162,6.21084548 L15.0271098,6 Z" id="形状结合" fill="#E55151" fill-rule="nonzero" transform="translate(11.563008, 12.000000) rotate(1.000000) translate(-11.563008, -12.000000) "></path>
+                                <polygon id="三角形备份" stroke="#E55151" fill="#ECC500" transform="translate(13.500000, 14.500000) rotate(-30.000000) translate(-13.500000, -14.500000) " points="13.5 11 17 18 13.5 17.125 10 18"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

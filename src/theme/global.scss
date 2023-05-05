@@ -1,0 +1,123 @@
+// 全局样式
+@import './variable';
+
+.mt-content {
+  margin-top: $--gutter-content;
+}
+.mb-content {
+  margin-bottom: $--gutter-content;
+}
+.ml-content {
+  margin-left: $--gutter-content;
+}
+.mr-content {
+  margin-right: $--gutter-content;
+}
+
+.mt-paragraph {
+  margin-top: $--gutter-paragraph;
+}
+.mb-paragraph {
+  margin-bottom: $--gutter-paragraph;
+}
+.ml-paragraph {
+  margin-left: $--gutter-paragraph;
+}
+.mr-paragraph {
+  margin-right: $--gutter-paragraph;
+}
+
+.mt-line {
+  margin-top: $--gutter-line;
+}
+.mb-line {
+  margin-bottom: $--gutter-line;
+}
+.ml-line {
+  margin-left: $--gutter-line;
+}
+.mr-line {
+  margin-right: $--gutter-line;
+}
+
+// 城市选择组件
+.city-list-wrapper {
+  width: 570px;
+}
+
+.f-toe1 {
+  overflow: hidden;
+  word-wrap: normal;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.f-toe2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.el-autocomplete-suggestion {
+  box-shadow: 0 0;
+  border-radius: 0;
+  background: transparent;
+  border: 0;
+  .el-scrollbar {
+    width: 384px !important;
+    position: relative;
+    left: -68px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.32);
+    border-radius: 4px;
+    .el-autocomplete-suggestion__wrap {
+      padding-top: 0;
+      max-height: 420px;
+    }
+  }
+  .popper__arrow {
+    display: none;
+  }
+  .title {
+    height: 47px;
+    border-bottom: 1px solid rgba(#000620, 0.08);
+    display: flex;
+    span {
+      font-size: 12px;
+      line-height: 48px;
+      vertical-align: middle;
+    }
+  }
+  .rank {
+    width: 36px;
+  }
+  .position {
+    // margin-left: 12px;
+    width: 344px;
+    .gray {
+      color: rgba($--color-text-primary, 0.6);
+    }
+  }
+  .score {
+    // margin-left: 148px;
+    width: 50px;
+  }
+  .collect {
+    // margin-left: 26px;
+    width: 36px;
+  }
+  // .op {
+  // margin-left: 12px;
+  // }
+  .content-item {
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+  }
+}
+
+.gray {
+  color: rgba(0, 6, 32, 0.56);
+}
